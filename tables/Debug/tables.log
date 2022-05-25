@@ -1,0 +1,20 @@
+﻿  tables.cpp
+c:\users\kolya\desktop\mp2-lab5-tables\include\unorderedtable.h(76): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\kolya\desktop\mp2-lab5-tables\include\unorderedtable.h(75): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\kolya\desktop\mp2-lab5-tables\tables\tables.cpp(13): note: выполняется компиляция ссылки на экземпляр шаблон класс "UnorderedTable<std::string,Polinom>"
+c:\users\kolya\desktop\mp2-lab5-tables\include\unorderedtable.h(45): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\kolya\desktop\mp2-lab5-tables\include\unorderedtable.h(44): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\kolya\desktop\mp2-lab5-tables\tables\tables.cpp(62): note: выполняется компиляция ссылки на экземпляр шаблон функции "TValue UnorderedTable<std::string,TValue>::getValue(const TKey &)"
+          with
+          [
+              TValue=Polinom,
+              TKey=std::string
+          ]
+c:\users\kolya\desktop\mp2-lab5-tables\include\unorderedtable.h(34): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\kolya\desktop\mp2-lab5-tables\include\unorderedtable.h(33): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\kolya\desktop\mp2-lab5-tables\include\unorderedtable.h(55): note: выполняется компиляция ссылки на экземпляр шаблон функции "int UnorderedTable<std::string,Polinom>::find(const TKey &)"
+          with
+          [
+              TKey=std::string
+          ]
+  tables.vcxproj -> C:\Users\kolya\Desktop\mp2-lab5-tables\Debug\tables.exe

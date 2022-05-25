@@ -1,0 +1,12 @@
+------------
+User add polinom
+User add polinom
+User add polinom
+User get polinom with key: key2
+HashTable: Actions for finding a polynomial: 1
+User get polinom with key: key1
+RBTree: Actions for finding a polynomial: 2
+HashTable: Actions for finding a polynomial: 1
+User get polinom with key: key3
+RBTree: Actions for finding a polynomial: 3
+HashTable: Actions for finding a polynomial: 1
